@@ -4,14 +4,13 @@ A production-ready Merkle tree library implemented in Rust with proof generation
 
 ## Features
 
-- 🌳 **Binary Merkle Tree**: Efficient binary tree implementation for standard use cases
-- 🕸️ **Sparse Merkle Tree**: Memory-efficient implementation for sparse data sets
-- 🔐 **Multiple Hash Functions**: Support for SHA-256, SHA-3, and BLAKE3
-- ✅ **Proof Generation & Verification**: Complete proof system with detailed verification
-- 📦 **Serialization Support**: Optional serde support for proof serialization
-- 🚀 **Performance Optimized**: Benchmarked and optimized for production use
-- 🧪 **Comprehensive Testing**: Extensive test suite with edge cases
-- 📚 **Well Documented**: Complete API documentation and examples
+- **Binary Merkle Tree**: Efficient binary tree implementation for standard use cases
+- **Sparse Merkle Tree**: Memory-efficient implementation for sparse data sets
+- **Multiple Hash Functions**: Support for SHA-256, SHA-3, and BLAKE3
+- **Proof Generation & Verification**: Complete proof system with detailed verification
+- **Serialization Support**: Optional serde support for proof serialization
+- **Performance Optimized**: Benchmarked and optimized
+- **Comprehensive Testing**: Test suite with edge cases
 
 ## Quick Start
 
