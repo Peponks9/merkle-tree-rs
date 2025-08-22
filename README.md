@@ -10,7 +10,7 @@ A production-ready Merkle tree library implemented in Rust with proof generation
 - **Proof Generation & Verification**: Complete proof system with detailed verification
 - **Serialization Support**: Optional serde support for proof serialization
 - **Performance Optimized**: Benchmarked and optimized
-- **Comprehensive Testing**: Test suite with edge cases
+- **Comprehensive Testing**: Test suite with edges cases
 
 ## Quick Start
 
