@@ -1,6 +1,6 @@
 # Merkle Tree Library in Rust
 
-A production-ready Merkle tree library implemented in Rust with proof generation/verification, generic hash support, and comprehensive testing.
+A Merkle tree library implemented in Rust with proof generation/verification, generic hash support, and comprehensive testing.
 
 ## Features
 
